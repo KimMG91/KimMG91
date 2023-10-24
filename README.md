@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <!--스프링부트 로고-->
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://simpleicons.org/icons/notion.svg"/>
 </h3>
 
 📫Email:chansol91@naver.com
