@@ -51,7 +51,7 @@
 ## 🙋‍♂️Contact infromation
 
 <!-- 이메일 링크 , 노션 링크-->
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chansol91@naver.com)](mailto:chansol91@naver.com)&nbsp;<!--노션-->[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chansol91@naver.com)](mailto:chansol91@naver.com)&nbsp;&nbsp;<!--노션-->[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4)
 
 
 
