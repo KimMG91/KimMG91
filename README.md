@@ -18,10 +18,8 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </h3>
 
-<!-- 이메일 링크 -->
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chansol91@naver.com)](mailto:chansol91@naver.com)
-<!-- 노션 링크 -->
-[![Notion Badge](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white)](https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4)
+<!-- 이메일 링크 , 노션 링크-->
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chansol91@naver.com)](mailto:chansol91@naver.com)[![Notion Badge](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white)](https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4)
 
 
 
