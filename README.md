@@ -63,6 +63,10 @@
   <a href="https://github.com/KimMG91/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=350/>
 </a>
+<!--레포지토리 카드-->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/Festival_Information_Board)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/library_System)
+
 
 <p><a href="https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4">김민건 노션</a></p>
 
