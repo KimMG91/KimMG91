@@ -70,4 +70,8 @@
 
 <p><a href="https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4">김민건 노션</a></p>
 
+<!--방문자 수 배지-->
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23040404&title_bg=%2345A4C0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+  </br>
 </div>
