@@ -57,5 +57,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimMG91&show_icons=true&theme=radical)
 
 
+<!--언어통계 카드-->
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true)](https://github.com/KimMG91/github-readme-stats)
+KimMG91
+  <a href="https://github.com/KimMG91/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=350/>
+</a>
 
+<p><a href="https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4">김민건 노션</a></p>
 
+</div>
