@@ -67,14 +67,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KimMG91&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMG91&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMG91&exclude_repo=KimMG91.github.io&layout=compact&theme=tokyonight" />
 </a>
 
 <!--레포지토리 카드-->
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimMG91&repo=project_board&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/project_board)
+ <a>
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimMG91&repo=project_board&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/project_board)
+ </a>
+ <a>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/Festival_Information_Board)
+ </a>
+ <a>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/library_System)
-
+ </a>
 
 
 
