@@ -64,10 +64,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4Comfort&layout=compact&exclude_repo=All4Comfort,desktop-tutorial&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC&disable_animations=true" width=350/>
 </a> -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMG91&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimMG91&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimMG91&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimMG91&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 
 <!--레포지토리 카드-->
