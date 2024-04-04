@@ -74,9 +74,9 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimMG91&repo=project_board&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/project_board)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=FestivalBoard&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/Festival_Information_Board)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimMG91&repo=FestivalBoard&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/Festival_Information_Board)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=All4Comfort&repo=LibraryManagement&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/library_System)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimMG91&repo=LibraryManagement&bg_color=000000&text_color=FFFFFF&title_color=85D3FF&icon_color=E484FC)](https://github.com/KimMG91/library_System)
 
 
 
