@@ -45,8 +45,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" height=20/>
   <!--깃허브 로고-->
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" height=20/>
-  <!-- Tistory 로고-->
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+ 
   
 </div>
 <br/>
@@ -55,7 +54,7 @@
 ## 🙋‍♂️Contact infromation
 
 <!-- 이메일 링크 , 노션 링크-->
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chansol91@naver.com)](mailto:chansol91@naver.com)&nbsp;&nbsp;<!--노션-->[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:chansol91@naver.com)](mailto:chansol91@naver.com)&nbsp;&nbsp;<!--노션-->[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://korea-mingun.notion.site/Mingun-Kim-93ccfe64fe2a4867847d6efcd5ee4bfa?pvs=4)<!--Tistory-->[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={kreativity-engineer}&theme={kreativity-engineer})](https://github.com/loosie/github-readme-tistory-card)
 
 
 
