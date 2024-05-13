@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" height=20/>
   <!--깃허브 로고-->
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" height=20/>
+  <!-- Tistory 로고-->
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+  
 </div>
 <br/>
 <div align="center">
